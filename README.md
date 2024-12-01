@@ -37,6 +37,5 @@ A debatibly active [GitHub](https://github.com/zshzebra) user, with over 70 repo
 -   [Hyprland](https://hyprland.org/)
 -   [Kitty](https://sw.kovidgoyal.net/kitty/)
 
- <a href="https://monkeytype.com/profile/zshzebra">
-   <img src="https://raw.githubusercontent.com/zshzebra/zshzebra/monkeytype-readme/zshzebra-monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
- </a>
+## Monkey Type
+![Monkeytype Profile](https://raw.githubusercontent.com/zshzebra/zshzebra/refs/heads/main/zshzebra-monkeytype-readme-pb.svg)
