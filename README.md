@@ -1,9 +1,3 @@
-+++
-title = 'Welcome'
-date = 2024-11-13T11:12:03+11:00
-draft = false
-+++
-
 # :wave:
 
 This is my personal website and portfolio.
@@ -42,3 +36,7 @@ A debatibly active [GitHub](https://github.com/zshzebra) user, with over 70 repo
 -   [Zsh](https://www.zsh.org/)
 -   [Hyprland](https://hyprland.org/)
 -   [Kitty](https://sw.kovidgoyal.net/kitty/)
+
+### Monkeytype
+
+![Monkeytype](https://monkeytype-readme.com/generate-svg/zshzebra/catppuccin?lbpb=true)
