@@ -1,7 +1,5 @@
 # :wave:
 
-This is my personal website and portfolio.
-
 I'm ZshZebra, a hobbyist mechatronics engineer and open-source enthusiast.
 
 ## About Me
