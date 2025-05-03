@@ -26,14 +26,14 @@ A debatibly active [GitHub](https://github.com/zshzebra) user, with over 70 repo
 ### :wrench: Favourite Tools
 
 -   [Hugo :heart:](https://gohugo.io/)
--   [Micro](https://micro-editor.github.io/)
+-   [Helix](https://helix-editor.com/)
 -   [VSCode](https://code.visualstudio.com/)
 -   [KiCad](https://kicad.org/)
 -   [LibreOffice](https://www.libreoffice.org/)
 -   [Arch Linux](https://archlinux.org/)
 -   [Zsh](https://www.zsh.org/)
 -   [Hyprland](https://hyprland.org/)
--   [Kitty](https://sw.kovidgoyal.net/kitty/)
+-   [Ghostty](https://ghostty.org/)
 
 ### Monkeytype
 
